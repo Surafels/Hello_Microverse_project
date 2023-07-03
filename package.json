@@ -1,0 +1,27 @@
+{
+  "name": "hello_mivroverse_project",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surafels/Hello_Mivroverse_project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surafels/Hello_Mivroverse_project/issues"
+  },
+  "homepage": "https://github.com/Surafels/Hello_Mivroverse_project#readme",
+  "devDependencies": {
+    "hint": "^2.0.0",
+    "stylelint": "^15.9.0",
+    "stylelint-config-standard": "^33.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
