@@ -1,7 +1,32 @@
 {
     "cSpell.words": [
+        "argparse",
+        "arrify",
+        "callsites",
+        "camelcase",
+        "Chaka",
+        "colord",
+        "cssesc",
         "csstree",
+        "decamelize",
+        "extglob",
+        "fastq",
+        "fullwidth",
+        "globjoin",
+        "imurmurhash",
+        "isexe",
+        "mathml",
         "Microverse",
-        "stylelint"
+        "picocolors",
+        "picomatch",
+        "redent",
+        "reusify",
+        "setub",
+        "stylelint",
+        "Surafel",
+        "Surafels",
+        "Webhint",
+        "wrappy",
+        "yallist"
     ]
 }
